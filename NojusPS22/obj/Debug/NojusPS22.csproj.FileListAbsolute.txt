@@ -1,0 +1,14 @@
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\bin\Debug\NojusPS22.exe.config
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\bin\Debug\NojusPS22.exe
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\bin\Debug\NojusPS22.pdb
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\NojusPS22.csproj.AssemblyReference.cache
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\MainWindow.baml
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\MainWindow.g.cs
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\App.g.cs
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\NojusPS22_MarkupCompile.cache
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\NojusPS22.g.resources
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\NojusPS22.Properties.Resources.resources
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\NojusPS22.csproj.GenerateResource.cache
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\NojusPS22.csproj.CoreCompileInputs.cache
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\NojusPS22.exe
+C:\Users\theno\source\repos\NojusPS22\NojusPS22\obj\Debug\NojusPS22.pdb
